@@ -4,3 +4,7 @@ int main(){
 	printf("welcome to my world");
 	return 0;
 }
+
+void dosomething(){
+	
+}
